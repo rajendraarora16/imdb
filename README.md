@@ -6,9 +6,6 @@ IMDb is now the world's most popular and authoritative source for movie, TV and 
 
 Visit here: http://www.imdb.com/
 
-As per the request, I've created the similar project. 
-
-
 To see demo, Visit here:
 
 **[DEMO][1]**
@@ -102,7 +99,7 @@ Create table into your database:
     );
 
 
-**If any query comes, Kindly drop at contact.rajendraarora@gmail.com**
+**Please feel free to ask any query at contact.rajendraarora@gmail.com**
 
 
 
